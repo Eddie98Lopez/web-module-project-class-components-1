@@ -46,7 +46,7 @@ class App extends React.Component {
     this.setState({
       todo: [...this.state.todo, newTodo]
     })
-    console.log(this.state.todo)
+    //console.log(this.state.todo)
 
   }
 
