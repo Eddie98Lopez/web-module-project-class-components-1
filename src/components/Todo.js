@@ -3,6 +3,7 @@ import styled from 'styled-components'
 
 const TodoWrapper = styled.div`
 padding-left:1rem;
+padding-right:1rem;
 
 
 & li{

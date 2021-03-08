@@ -1,5 +1,5 @@
 .completed {
   text-decoration: line-through;
-  color: rgb(150, 150, 150);
+  color: rgb(168, 168, 168);
   transition: 0.3s ease-in-out;
 }
